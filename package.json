@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Team-Electra5/remoser-md.git"
+    "url": "git+https://github.com/Team-Electra5/lisa-md.git"
   },
   "keywords": [
     "whatsapp",
@@ -18,7 +18,7 @@
   "author": "ufaluckyser",
   "developer": "@Team-Electra5",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://github.com/Team-Electra5/remoser#readme",
+  "homepage": "https://github.com/Team-Electra5/lisa#readme",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/Team-Electra5/Baileys.git",
     "@adiwajshing/keyed-db":"0.2.4",
