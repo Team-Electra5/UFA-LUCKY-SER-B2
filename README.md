@@ -24,3 +24,6 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 
 ## You can also use as a BGM bot. [Click here](https://github.com/Team-Electra5/ufa-Blood-Brothers/Docs#how-to-set-up-bgm-bot)
 ## developer by ufa lucky ser
+<a(<img src=null-20220906-WA0688.jpg>
+<div>
+    <br>
