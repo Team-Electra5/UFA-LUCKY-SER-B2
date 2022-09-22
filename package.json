@@ -1,7 +1,7 @@
 {
   "name": "lisa-md", 
   "version": "3.0.1",
-  "description"lisa whatsapp bot- Multi device version.",
+  "description""lisa whatsapp bot- Multi device version.",
   "main": "./lisa/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
