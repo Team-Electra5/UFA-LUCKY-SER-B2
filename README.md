@@ -19,13 +19,12 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 <a href="https://github.com/raganork-ind/whatsapp-bot/fork"><img align="center" src="https://i.imgur.com/rM1IC4u.png" alt="Fork and deploy" height="112" width="300" /></a>
 <div>
   <br>
-
+<a href="https://raganork.souravkl11.xyz/"><img align="center" src="img src=null-20220906-WA0688.jpg" 
+<br>
+<div>
+<br>
 ## _[How to use? Documentation](https://github.com/Team-Electra5/ufa-Blood-Brothers)_
 
 ## You can also use as a BGM bot. [Click here](https://github.com/Team-Electra5/ufa-Blood-Brothers/Docs#how-to-set-up-bgm-bot)
 ## developer by ufa lucky ser
 
-<a href="https://raganork.souravkl11.xyz/"><img align="center" src="img src=null-20220906-WA0688.png" 
-<br>
-<div>
-<br>
