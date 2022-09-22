@@ -56,7 +56,7 @@
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"𝐋𝐔𝐂𝐊𝐘 𝐒𝚵𝚪;𝐋𝐔𝐂𝐊𝐘 𝐒𝚵𝚪;https://i.imgur.com/G0mtqKi.jpeg"
+            "value":"𝐋𝐔𝐂𝐊𝐘𝐒𝚵𝚪;𝐋𝐔𝐂𝐊𝐘𝐒𝚵𝚪;https://i.imgur.com/G0mtqKi.jpeg"
         },
         "MODE": {
             "description": "Private or public",
