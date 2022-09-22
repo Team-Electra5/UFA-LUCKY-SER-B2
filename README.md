@@ -8,12 +8,12 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 -->
 <div align="center">
   
-<a href="https://Raganork.souravkl11.xyz/"><img align="center" src="https://i.imgur.com/ShKXXB1.png" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://Raganork.souravkl11.xyz/"><img align="center" src="https://i.imgur.com/Bz4mXD9.png " alt="Scan QR" height="112" width="300" /></a>
 <br>
 <div>
 <br>
   
-<a href="https://Raganork-network.vercel.app/api/deploy-md" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://Raganork-network.vercel.app/api/deploy-md" target="blank"><img align="center" src="https://i.imgur.com/I6Cct6A.png " alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
 <a href="https://github.com/Raganork-ind/whatsapp-bot/fork"><img align="center" src="null-20220906-WA0688.png>" alt="Fork and deploy" height="112" width="300" /></a>
