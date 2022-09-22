@@ -1,8 +1,8 @@
 {
-  "name": "remoser-md", 
+  "name": "lisa-md", 
   "version": "3.0.1",
-  "description": "REMOSER whatsapp bot- Multi device version.",
-  "main": "./REMOSER/index.js",
+  "description"lisa whatsapp bot- Multi device version.",
+  "main": "./lisa/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
