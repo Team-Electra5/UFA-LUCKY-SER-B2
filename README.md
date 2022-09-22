@@ -25,7 +25,7 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 ## You can also use as a BGM bot. [Click here](https://github.com/Team-Electra5/ufa-Blood-Brothers/Docs#how-to-set-up-bgm-bot)
 ## developer by ufa lucky ser
 
-<a href="https://raganork.souravkl11.xyz/"><img align="center" src="img src=null-20220906-WA0688.jpg" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://raganork.souravkl11.xyz/"><img align="center" src="img src=null-20220906-WA0688.png" 
 <br>
 <div>
 <br>
