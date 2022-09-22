@@ -16,7 +16,7 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 <a href="https://raganork-network.vercel.app/api/deploy-md" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
-<a href="https://github.com/raganork-ind/whatsapp-bot/fork"><img align="center" src="null-20220906-WA0688.jpg>" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://github.com/raganork-ind/whatsapp-bot/fork"><img align="center" src="null-20220906-WA0688.png>" alt="Fork and deploy" height="112" width="300" /></a>
 <div>
   <br>
 
